@@ -1,5 +1,6 @@
 #----------------------------------------------------------------------------
 #CRIAÇÃO DA FUNÇÃO MENU
+#import json
 def menu():
   print(''' 
   Bem vindo ao Petshop Au-Miau!
